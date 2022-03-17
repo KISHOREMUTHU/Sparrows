@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "112663875517",
+    "project_id": "sparrows-a270b",
+    "storage_bucket": "sparrows-a270b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112663875517:android:38a4fb7b8e030c9b6a0cd4",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112663875517-6fhprmidcjj4v5hi8e9pg3n40plrqrds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo",
+            "certificate_hash": "a916266547e21572775ff1ec0ad1f6aef2443d7e"
+          }
+        },
+        {
+          "client_id": "112663875517-2tf82uhd1bnctg04a9dvb67s33dtci60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZam3qJJ2o8OSyFkeqldMXeoJ7eCls-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112663875517-2tf82uhd1bnctg04a9dvb67s33dtci60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
